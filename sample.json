@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Berliner Zeitung"
+      },
+      "author": "Michael Maier",
+      "title": "Magische Grenze durchbrochen: Strompreise steigen rasant - Berliner Zeitung",
+      "description": "Die Strompreise steigen in einem bisher nicht dagewesenen Tempo. Die nächste Stromrechnung wird saftig.",
+      "url": "https://www.berliner-zeitung.de/wirtschaft-verantwortung/magische-grenze-durchbrochen-strompreise-steigen-rasant-li.257064",
+      "urlToImage": "https://images.berliner-zeitung.de/2022/08/16/4f88796c-baef-4b30-92ff-f9ebb245d8a0.jpeg?w=1200&h=630&fit=crop&crop=faces",
+      "publishedAt": "2022-08-16T18:33:00Z",
+      "content": "Die Strompreise sind auf neue Rekordhöhen gestiegen. Es ist zu erwarten, dass sich die deutschen Konsumenten im kommenden Jahr und in den Folgejahren auf signifikant höhere Stromrechnungen einstellen… [+5634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "N-tv.de"
+      },
+      "author": "n-tv NACHRICHTEN",
+      "title": "Plötzlich wieder günstig: Bauspardarlehen wieder günstiger als Bankkredite - n-tv NACHRICHTEN",
+      "description": "Die Zinsen für Hypothekendarlehen haben sich seit Anfang des Jahres verdreifacht, bei den Bausparkassen sind sie hingegen konstant geblieben, wie Finanztest berichtet. Der klassische Nutzen von Bauspardarlehen rückt damit wieder in den Fokus: der Schutz vor s…",
+      "url": "https://www.n-tv.de/ratgeber/Bauspardarlehen-wieder-guenstiger-als-Bankkredite-article23528887.html",
+      "urlToImage": "https://bilder4.n-tv.de/img/incoming/crop19782147/7441326977-cImg_16_9-w1200/Bausparen.jpg",
+      "publishedAt": "2022-08-16T17:48:00Z",
+      "content": "Die Zinsen für Hypothekendarlehen haben sich seit Anfang des Jahres verdreifacht, bei den Bausparkassen sind sie hingegen konstant geblieben, wie Finanztest berichtet. Der klassische Nutzen von Bausp… [+3022 chars]"
+    },
+    {
+      "source": {
+        "id": "handelsblatt",
+        "name": "Handelsblatt"
+      },
+      "author": "Andrea Cünnen",
+      "title": "Fonds: Investoren misstrauen den steigenden Aktienkursen - Handelsblatt ",
+      "description": "Die Aktienmärkte haben seit Mitte Juni wieder kräftig zugelegt. Trotzdem sind Portfoliomanager noch skeptisch. Dafür gibt es mehrere Gründe.",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/portfoliomanager-umfrage-baerenmarktrally-oder-neuer-bullenmarkt-warum-fondsmanager-den-steigenden-kursen-misstrauen/28602604.html",
+      "urlToImage": "https://www.handelsblatt.com/images/haendler-an-der-new-yorker-boerse/28604136/3-format2003.jpg",
+      "publishedAt": "2022-08-16T17:19:31Z",
+      "content": "Händler an der New Yorker BörseDer US-Leitindex S&amp;P 500 hat seit Mitte Juni rund 17 Prozent zugelegt.\r\n(Foto: AP) \r\nFrankfurt Die Erholung an den Börsen ist beeindruckend. Um rund 17 Prozent ist … [+1118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CHIP Online Deutschland"
+      },
+      "author": "Joerg Geiger",
+      "title": "Mehr Netto für 48 Millionen Deutsche: Wer kriegt es - CHIP - CHIP Online Deutschland",
+      "description": "Ein Entlastungspaket soll 48 Millionen Deutsche entlasten – teils um mehrere hundert Euro. Gehören Sie dazu? Hier finden Sie alle Infos zu den Bedingungen des Pakets.",
+      "url": "https://www.chip.de/news/Bald-hunderte-Euro-netto-mehr-Ueber-die-Haelfte-der-Deutschen-profitiert-davon_184385375.html",
+      "urlToImage": "https://www.chip.de/ii/1/2/6/6/5/8/0/7/0/Glowimages-52d518f759c11c25.jpg",
+      "publishedAt": "2022-08-16T17:11:27Z",
+      "content": "WISO steuer - Sparbuch 2022 \r\nVersion 1.2.39\r\nMit dem \"WISO Steuer-Sparbuch 2022\" erledigen Sie ohne großen Aufwand die elektronische Steuererklärung - egal, ob Angestellter, Selbständiger oder Pensi… [+5 chars]"
+    }
+  ]
+}
