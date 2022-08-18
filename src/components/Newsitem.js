@@ -8,7 +8,7 @@ export default class Newsitem extends Component {
     return (
       <div className="my-3">
         <div className="card mx-4" style={{height:"auto"}}>
-          <img src={!imgUrl?"https://images.moneycontrol.com/static-mcnews/2022/08/fandosensexniftyderivative-770x433.jpg":imgUrl} className="card-img-top" alt="..." style={{maxHeight:"160px"}}/>
+          <img src={!imgUrl?"https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=917&q=80":imgUrl} className="card-img-top" alt="..." style={{maxHeight:"160px"}}/>
           <div className="card-body">
             <h5 className="card-title">{title}...</h5>
             <p className="card-text">
